@@ -1,4 +1,6 @@
-package command;
+package com.utec.design.patterns;
+
+import com.utec.design.patterns.commands.Command;
 
 public class SimpleRemoteControl {
     Command slot;
